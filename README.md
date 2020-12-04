@@ -22,5 +22,7 @@ use
 ./Undercoverurlshoter.sh
 to shorten the link
 
+i will be adding more link shortners and mite make it all one script 
+add picsee so can edit tumbnail make the like look  more inviting 
 
 BY THE LAUGHINGMAN 
