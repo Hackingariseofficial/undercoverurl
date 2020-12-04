@@ -21,3 +21,6 @@ when finshed
 use 
 ./Undercoverurlshoter.sh
 to shorten the link
+
+
+BY THE LAUGHINGMAN 
